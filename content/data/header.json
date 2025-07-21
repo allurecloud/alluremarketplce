@@ -31,7 +31,7 @@
         },
         {
             "label": "Shop",
-            "altText": "Careers page",
+            "altText": "Store Front",
             "url": "/shop",
             "icon": "arrowRight",
             "iconPosition": "right",
