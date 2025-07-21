@@ -127,7 +127,7 @@ sections:
     hoverEffect: move-up
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Store
       color: text-dark
   - title:
       text: Grow your business 10x faster
