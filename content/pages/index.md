@@ -74,7 +74,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: This months featured creators
     items:
       - type: FeaturedItem
         title: 500k
