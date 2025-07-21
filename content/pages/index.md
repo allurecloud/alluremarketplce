@@ -8,10 +8,25 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: creator based e-commerce shop
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      **Allure World Market** is a premier global e-commerce destination that
+      curates style, culture, and craftsmanship from around the world into one
+      elegant, digital marketplace. Built for trendsetters, tastemakers, and
+      conscious consumers, we bring together diverse products—from fashion and
+      beauty to home goods and art—with a focus on quality, authenticity, and
+      global allure.
+
+
+      At Allure, we don't just sell items—we tell the stories behind them. Every
+      product connects you to cultures, creators, and craftsmanship across
+      continents, offering a seamless shopping experience that feels both
+      luxurious and personal.
+
+
+      We’re more than a market—we’re a movement. One world, endless allure.
+
+
+
     actions:
       - label: Get started
         altText: ''
