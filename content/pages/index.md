@@ -89,6 +89,16 @@ sections:
       type: TitleBlock
       text: Store
       color: text-dark
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /shop
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
   - type: FeaturedItemsSection
     title:
       text: Featured Creators
