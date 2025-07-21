@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: ALLUREWORLD
+      text: ALLUREWORLD MARKET
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
